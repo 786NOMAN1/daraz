@@ -1,0 +1,94 @@
+.b1{
+   background-color: rgba(240, 248, 255, 0.561);
+border-radius: 20px;
+border: none;
+outline: none;
+width: 100px;
+font-size: 65%;
+}
+
+.b1 > img{
+    width: 19%;
+}
+
+.b2{
+   display: inline;
+   background-color: rgba(240, 248, 255, 0.561);
+border-radius: 20px;
+border: none;
+outline: none;
+width: 100px;
+font-size: 65%;
+}
+
+ .b3{display: inline;
+   background-color: rgba(240, 248, 255, 0.561);
+border-radius: 20px;
+border: none;
+outline: none;
+width: 100px;
+font-size: 50%;
+}
+
+ .b4{display: inline;
+   background-color: rgba(240, 248, 255, 0.561);
+border-radius: 20px;
+border: none;
+outline: none;
+width: 100px;
+font-size: 50%;
+
+}
+
+ .b5{display: inline;
+   background-color: rgba(240, 248, 255, 0.561);
+border-radius: 20px;
+border: none;
+outline: none;
+width: 100px;
+font-size: 65%;
+
+
+
+}
+.b2 > img{
+   width: 19%;
+}
+
+.b3 > img{
+   width: 19%;
+}
+
+.b4 > img{
+   width: 19%;
+}
+
+.b5 > img{
+   width: 19%;
+}
+.b1:hover{
+   background-color: rgb(255, 255, 255);
+   color: rgba(42, 42, 236, 0.979);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.b2:hover{
+   background-color: rgb(255, 255, 255);
+   color: rgba(117, 233, 96, 0.979);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.b3:hover{
+   background-color: rgb(255, 255, 255);
+   color: rgba(235, 219, 80, 0.979);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.b4:hover{
+   background-color: rgb(255, 255, 255);
+   color: rgba(77, 223, 64, 0.979);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.b5:hover{
+   background-color: rgb(255, 255, 255);
+   color: rgba(49, 207, 221, 0.979);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+
